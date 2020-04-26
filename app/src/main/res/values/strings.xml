@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homeowkAndroid2</string>
+    <string name="title">Подписка</string>
+    <string name="name">Имя пользователя</string>
+    <string name="email">Электронная почта</string>
+    <string name="ok">OK</string>
+    <string name="clear">Очистить</string>
+</resources>
